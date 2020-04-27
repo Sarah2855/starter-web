@@ -7,3 +7,6 @@ As state above, the main purpose is to provide simple exampels for Git training 
 ## Deployment
 This is simple web project, deployment can be on any web server or even local file system 
 ## How to contribute
+
+## Copyright
+2020 Git training copyright 
