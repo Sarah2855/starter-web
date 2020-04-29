@@ -11,4 +11,4 @@ This is simple web project, deployment can be on any web server or even local fi
 ## How to contribute
 Please fork this repository and then issue pull requst for review
 ## Copyright
-2020 Git training copyright 
+2020 Git training copyright . All rights reserved 
